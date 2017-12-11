@@ -5,7 +5,7 @@ echo " "
 echo "***************************"
 setxkbmap fi
 sudo apt-get update
-sudo apt-get -y install git tree puppet
+sudo apt-get -y install git puppet
 
 git clone https://github.com/Irmagma/daw.git
 
